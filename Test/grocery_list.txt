@@ -1,19 +1,19 @@
-Produce
+__PRODUCE__
 Apple
 Banana
 Onion 
 Carrots
 Pear 
-Meat
+__MEAT__
 Chicken 
-Dairy
+__DAIRY__
 Dozen eggs
-Dry Food
+__DRY FOOD__
 Trail mix
-Frozen
+__FROZEN__
 Pizza
 Frozen Onion/Peppers
 Frozen Dinner
-Toppings
+__SEASONINGS__
 Taco Seasoning
 Old El Paso Salsa
