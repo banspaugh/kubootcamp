@@ -8,21 +8,8 @@ Meat
 Chicken 
 Dairy
 Dozen eggs
-Meat
-Chicken 
-Chicken 
-Dairy
-Dairy
-Dairy
-Trail mix
-Dozen eggs
-Trail mix
 Dry Food
 Trail mix
-Frozen Onion/Peppers
-Frozen
-Pizza
-Frozen Onion/Peppers
 Frozen
 Pizza
 Frozen Onion/Peppers
