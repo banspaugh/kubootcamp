@@ -4,9 +4,14 @@ Banana
 Onion 
 Carrots
 Pear 
+Canned Corn
+Canned GB
+Lettuce
+Tomato
 __MEAT__
-Chicken 
+Chicken
 __DAIRY__
+Sliced Cheese
 Dozen eggs
 __DRY FOOD__
 Trail mix
